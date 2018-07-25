@@ -1,1 +1,1 @@
-# IMA_Project
+# IMA Project
